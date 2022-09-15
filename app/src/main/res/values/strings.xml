@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestSeamFix</string>
+    <string name="successful">Successful</string>
+    <string name="invalid_response">Invalid Response</string>
+</resources>
